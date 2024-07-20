@@ -1,6 +1,6 @@
-# Social Site Stop
+# Social Site Stop Warning 
 
-This application monitors your web browser tabs and plays an alert sound when specified social media websites are detected in open tabs. The application starts automatically when your Mac boots up and runs continuously until manually stopped or the Mac is shut down. It checks if specific websites are open in any browser tabs and then plays a sound every 60 seconds, which is a multi-step process. This task requires:
+This application monitors your web browser tabs and plays an alert sound when specified social media websites are detected in open tabs. The application starts automatically when your Mac boots up and runs continuously until manually stopped or the Mac is shut down. It checks if specific websites are open in any browser tabs and then plays a sound every 60 seconds, which is a multi-step process. (Can be used as H2O reminder too OR other types of reminders you may like). This task requires:
 
 
 	1.	Detecting if the specified websites are open in browser tabs.
